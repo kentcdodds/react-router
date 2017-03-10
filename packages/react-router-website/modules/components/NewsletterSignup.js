@@ -81,8 +81,8 @@ export default class NewsletterSignup extends Component {
           })
         }
       }
-      request.send()*/
-    }
+      request.send()
+    }*/
   }
 
   render () {
